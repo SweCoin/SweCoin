@@ -1,0 +1,9 @@
+Building Swecoin
+
+See doc/readme-qt.rst for instructions on building Swecoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Swecoin.
+
+See doc/build-*.txt for instructions on building swecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Swecoin.
